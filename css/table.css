@@ -1,0 +1,12 @@
+tbody .edit-btn-hide {
+  pointer-events: none;
+  opacity: 0;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+input[type="checkbox"].disabled {
+  pointer-events: none;
+}
