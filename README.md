@@ -61,3 +61,5 @@ If you find this project useful and would like to support me, you can <a href="h
 This project is licensed under the MIT License. More details can be found in the [LICENSE](https://github.com/shafygunawan/perdig/blob/main/LICENSE) file.
 
 Thank you for visiting my project!
+
+_Notes: You can only view without making changes to this repo website with the url https://shafygunawan.my.id/projects/perdig._
